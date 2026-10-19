@@ -1,0 +1,22 @@
+{
+  "wheel_id": 476,
+  "structure": "umbrella",
+  "slug": "garagedoorsrepairbrisbane-103",
+  "project": "garage-door-repairs-brisbane-before-you-start-49a669aed5b54e",
+  "parent_t1_ref": "garagedoorsrepairbrisbane-151",
+  "node_role": "feeder",
+  "money_target": "garagedoorsrepairbrisbane.com.au",
+  "primary_kw": "garage door repairs brisbane before you start",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/garage-door-repairs-brisbane-before-you-start-49a669aed5b54e/",
+  "tier": "T2",
+  "writeback_nonce": "5db736d56acb23ca",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/garage-door-repairs-brisbane-myths-3219ce16029b802d4770c8ebef7f/",
+      "anchor": "this garage door repairs brisbane myths resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
